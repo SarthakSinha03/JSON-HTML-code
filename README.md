@@ -8,6 +8,7 @@ and open the template in the editor.
 <html lang="en">
 <head>
 <title>Bootstrap Example</title>
+<Body background="https://img.freepik.com/free-vector/white-technology-background-concept_23-2148403398.jpg?size=626&ext=jpg&ga=GA1.2.1378557697.1636848000">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
